@@ -2,15 +2,5 @@
   "db": {
     "name": "db",
     "connector": "memory"
-  },
-  "track": {
-    "host": "localhost",
-    "port": 3306,
-    "url": "",
-    "database": "track",
-    "password": "",
-    "name": "track",
-    "user": "root",
-    "connector": "mysql"
   }
 }
